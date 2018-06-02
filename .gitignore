@@ -1,6 +1,8 @@
 __pycache__/
+working_dir/
 .DS_Store
 *.pyc
 data/
+dataSet/
 *summary/
 frozen_graph/
